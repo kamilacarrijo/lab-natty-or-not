@@ -20,10 +20,12 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Um clone para quando você estiver cansado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto, desenvolvido durante o bootcamp da DIO em parceria com a Caixa, tem como objetivo a criação de um avatar digital idêntico a uma pessoa real, utilizando tecnologias de Inteligência Artificial. O principal foco é permitir que o avatar seja capaz de gerar vídeos a partir de conteúdos em texto, eliminando a necessidade de gravações físicas frequentes.
+Por meio da combinação de ferramentas de síntese de voz, reconhecimento de linguagem natural e animação digital, o projeto oferece uma solução prática e escalável para quem deseja criar conteúdo audiovisual de forma eficiente. O usuário pode simplesmente fornecer textos (como scripts, artigos ou mensagens) e o sistema gerará automaticamente vídeos com a aparência e voz do avatar, tornando o processo de criação de conteúdo mais rápido e acessível.
+Essa abordagem proporciona uma forma inovadora de produção de vídeos para empresas, criadores de conteúdo e educadores, simplificando a comunicação e aumentando a produtividade ao mesmo tempo.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
