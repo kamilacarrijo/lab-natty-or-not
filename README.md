@@ -28,10 +28,13 @@ Por meio da combinação de ferramentas de síntese de voz, reconhecimento de li
 Essa abordagem proporciona uma forma inovadora de produção de vídeos para empresas, criadores de conteúdo e educadores, simplificando a comunicação e aumentando a produtividade ao mesmo tempo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://app.heygen.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi necessário a gravação de um vídeo de 2 a 5 minutos, num ambiente calmo sem ruídos externos, com pausas de 1 segundo entre uma sentençã e outra, com uma luminosidade adequada e gestos com as mãos de forma mais padronizada.
+Se você já é um criador de conteúdo você pode utiizar videos prontos que se encaixam nesses parametros.
+Depois você faz o upload para o site (Após criar sua conta claro) e aguarda a geração do avatar.
+Foi muito divertido criar um "clone".
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
