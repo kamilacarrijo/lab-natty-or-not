@@ -37,7 +37,7 @@ Depois você faz o upload para o site (Após criar sua conta claro) e aguarda a 
 Foi muito divertido criar um "clone".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Conseguimos traduzir 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
