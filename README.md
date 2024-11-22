@@ -37,10 +37,10 @@ Depois você faz o upload para o site (Após criar sua conta claro) e aguarda a 
 Foi muito divertido criar um "clone".
 
 ## 🚀 Resultados
-Conseguimos traduzir 
+Consegui traduzir para espanhol o meu vídeo, sem a necessidade de falar o idioma. Além da possibilidade de criação de novos vídeos utilizando a minha voz ou o meu avatar.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Aprender algo novo é sempre um desafio, mas gratificante no final.
 ```
 
 ### Exemplos e Insigths
